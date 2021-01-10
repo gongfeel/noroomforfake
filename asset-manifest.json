@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/noroomforfake/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/noroomforfake/static/js/main.c1a33a5e.chunk.js",
+    "main.js.map": "/noroomforfake/static/js/main.c1a33a5e.chunk.js.map",
+    "runtime-main.js": "/noroomforfake/static/js/runtime-main.e070572b.js",
+    "runtime-main.js.map": "/noroomforfake/static/js/runtime-main.e070572b.js.map",
+    "static/js/2.435ff4e1.chunk.js": "/noroomforfake/static/js/2.435ff4e1.chunk.js",
+    "static/js/2.435ff4e1.chunk.js.map": "/noroomforfake/static/js/2.435ff4e1.chunk.js.map",
+    "static/js/3.149bfc3e.chunk.js": "/noroomforfake/static/js/3.149bfc3e.chunk.js",
+    "static/js/3.149bfc3e.chunk.js.map": "/noroomforfake/static/js/3.149bfc3e.chunk.js.map",
+    "index.html": "/noroomforfake/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/noroomforfake/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.435ff4e1.chunk.js.LICENSE.txt": "/noroomforfake/static/js/2.435ff4e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e070572b.js",
+    "static/js/2.435ff4e1.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c1a33a5e.chunk.js"
+  ]
+}
